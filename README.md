@@ -30,12 +30,14 @@ This application helps track inventory damage, manage stock loss.
 
 ## 🗂️ Repository Structure
 
+```bash
 StockDamage_System/
 ├── .vs/ # Visual Studio config
 ├── StockDamage/ # Main application project
 ├── packages/ # NuGet packages & dependencies
 ├── StockDamage.sln # Visual Studio Solution File
 └── StockDamageDB.bacpac # Database backup package
+```
 
 
 ---
@@ -53,25 +55,25 @@ cd StockDamage_System
 
 2. **Open the solution**
 
-Double-click StockDamage.sln to open it in Visual Studio.
+*    Double-click StockDamage.sln to open it in Visual Studio.
 
 3. **Restore packages**
 
-Inside Visual Studio, go to:
-Tools → NuGet Package Manager → Restore Packages
+*   Inside Visual Studio, go to:
+    Tools → NuGet Package Manager → Restore Packages
 
 4. **Setup the database**
 
-Import StockDamageDB.bacpac into SQL Server using:
+*  Import StockDamageDB.bacpac into SQL Server using:
 
-SQL Server Management Studio (SSMS):
-Right click → Import Data-Tier Application → Select bacpac
+    * SQL Server Management Studio (SSMS):
+      Right click → Import Data-Tier Application → Select bacpac
 
 5. **Build & Run**
 
-Build the solution using:
-Build → Rebuild Solution
+*  Build the solution using:
+   Build → Rebuild Solution
 
-Run the app
-Debug → Start Debugging (F5)
+*  Run the app
+   Debug → Start Debugging (F5)
 
