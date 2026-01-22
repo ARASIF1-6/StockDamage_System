@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB16A628-2CEE-400C-A90E-9D359A00564C}|StockDamage\\StockDamage.csproj|C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\stockdamage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB16A628-2CEE-400C-A90E-9D359A00564C}|StockDamage\\StockDamage.csproj|solutionrelative:stockdamage\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB16A628-2CEE-400C-A90E-9D359A00564C}|StockDamage\\StockDamage.csproj|c:\\users\\aminur rahman\\source\\repos\\stockdamage\\stockdamage\\controllers\\stockdamagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB16A628-2CEE-400C-A90E-9D359A00564C}|StockDamage\\StockDamage.csproj|solutionrelative:stockdamage\\controllers\\stockdamagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB16A628-2CEE-400C-A90E-9D359A00564C}|StockDamage\\StockDamage.csproj|C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\stockdamage\\models\\stockdamagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB16A628-2CEE-400C-A90E-9D359A00564C}|StockDamage\\StockDamage.csproj|solutionrelative:stockdamage\\models\\stockdamagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB16A628-2CEE-400C-A90E-9D359A00564C}|StockDamage\\StockDamage.csproj|C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\stockdamage\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB16A628-2CEE-400C-A90E-9D359A00564C}|StockDamage\\StockDamage.csproj|solutionrelative:stockdamage\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB16A628-2CEE-400C-A90E-9D359A00564C}|StockDamage\\StockDamage.csproj|C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\stockdamage\\views\\stockdamage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB16A628-2CEE-400C-A90E-9D359A00564C}|StockDamage\\StockDamage.csproj|solutionrelative:stockdamage\\views\\stockdamage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB16A628-2CEE-400C-A90E-9D359A00564C}|StockDamage\\StockDamage.csproj|C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\stockdamage\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CB16A628-2CEE-400C-A90E-9D359A00564C}|StockDamage\\StockDamage.csproj|solutionrelative:stockdamage\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB16A628-2CEE-400C-A90E-9D359A00564C}|StockDamage\\StockDamage.csproj|C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\stockdamage\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CB16A628-2CEE-400C-A90E-9D359A00564C}|StockDamage\\StockDamage.csproj|solutionrelative:stockdamage\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\StockDamage\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "StockDamage\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\StockDamage\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "StockDamage\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T22:00:19.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\StockDamage\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StockDamage\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\StockDamage\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StockDamage\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T20:36:11.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\StockDamage\\Web.config",
+              "RelativeDocumentMoniker": "StockDamage\\Web.config",
+              "ToolTip": "C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\StockDamage\\Web.config",
+              "RelativeToolTip": "StockDamage\\Web.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-20T18:26:24.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\StockDamage\\Views\\Web.config",
+              "RelativeDocumentMoniker": "StockDamage\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\StockDamage\\Views\\Web.config",
+              "RelativeToolTip": "StockDamage\\Views\\Web.config",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-20T18:16:21.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\StockDamage\\Views\\StockDamage\\Index.cshtml",
+              "RelativeDocumentMoniker": "StockDamage\\Views\\StockDamage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\StockDamage\\Views\\StockDamage\\Index.cshtml",
+              "RelativeToolTip": "StockDamage\\Views\\StockDamage\\Index.cshtml",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAkwEcBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T18:15:46.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockDamageController.cs",
+              "DocumentMoniker": "C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\StockDamage\\Controllers\\StockDamageController.cs",
+              "RelativeDocumentMoniker": "StockDamage\\Controllers\\StockDamageController.cs",
+              "ToolTip": "C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\StockDamage\\Controllers\\StockDamageController.cs",
+              "RelativeToolTip": "StockDamage\\Controllers\\StockDamageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:12:55.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockDamageModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\StockDamage\\Models\\StockDamageModel.cs",
+              "RelativeDocumentMoniker": "StockDamage\\Models\\StockDamageModel.cs",
+              "ToolTip": "C:\\Users\\Aminur Rahman\\source\\repos\\StockDamage\\StockDamage\\Models\\StockDamageModel.cs",
+              "RelativeToolTip": "StockDamage\\Models\\StockDamageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:11:48.881Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
